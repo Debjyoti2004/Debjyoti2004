@@ -53,7 +53,7 @@ I'm a passionate engineer who loves architecting robust systems and bringing ide
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,linux,ubuntu,git,gitlab,github,go,java,html,css,java,js,ts,express,nodejs,nextjs,mongodb,mysql,postgres,redis,nginx,react,tailwind,prisma,postman,npm,obsidian,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana,linux,ubuntu,git,githubactions,gitlab,github,go,java,html,css,java,js,ts,express,nodejs,nextjs,mongodb,mysql,postgres,redis,nginx,react,tailwind,prisma,postman,npm,obsidian,figma&theme=dark" />
   </a>
 </p>
 
