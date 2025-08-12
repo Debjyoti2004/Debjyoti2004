@@ -94,7 +94,7 @@ I'm a passionate engineer who loves architecting robust systems and bringing ide
 
   <h3>Profile Stats:</h3>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=debjyoti2004&label=PROFILE+VIEWS&color=E0E0E0&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=debjyoti2004&label=PROFILE+VIEWS&color=FFF59D&style=for-the-badge" alt="Profile Views" />
   </p>
   <a href="https://www.buymeacoffee.com/debjyoti2004" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
