@@ -84,15 +84,13 @@ I'm a passionate engineer who loves architecting robust systems and bringing ide
     <a href="https://www.linkedin.com/in/debjyotishit" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    &nbsp;&nbsp; <!-- This adds a space between badges -->
+    &nbsp;&nbsp; 
     <a href="mailto:debjyotishit27@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
   
-  <hr> <!-- A horizontal line to separate sections -->
-
-  <h3>Profile Stats:</h3>
+  <hr> 
   <p>
   <img src="https://komarev.com/ghpvc/?username=debjyoti2004&label=PROFILE+VIEWS&color=0077B5&style=for-the-badge" alt="Profile Views" />
 </p>
