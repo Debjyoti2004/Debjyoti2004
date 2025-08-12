@@ -79,8 +79,21 @@ I'm a passionate engineer who loves architecting robust systems and bringing ide
 ---
 
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=debjyoti2004&label=PROFILE+VIEWS&color=34D399&style=for-the-badge" alt="Profile Views" /></p>
-  <a href="https://www.buymeacoffee.com/debjyoti2004" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/debjyotishit" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp; <!-- This adds a space between badges -->
+    <a href="mailto:debjyotishit27@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+  
+  <hr> <!-- A horizontal line to separate sections -->
+
+  <h3>Profile Stats:</h3>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=debjyoti2004&label=PROFILE+VIEWS&color=FDD835&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
