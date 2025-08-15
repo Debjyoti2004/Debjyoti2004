@@ -33,7 +33,7 @@ I'm a passionate engineer who loves architecting robust systems and bringing ide
 
 - 🌱 Currently deepening my skills in **CI/CD, Terraform, & Kubernetes**.
 - 🧠 Exploring the exciting worlds of **Web3, MLOps, and Data Science**.
-- 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1HdxZmtPbx-ZCXfpJCEFwsBcD2OeBFTD3/view?usp=sharing).
+- 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1zLJwFKALqJwjQC1zQOkrDrW7sLUOLnjX/view?usp=sharing).
 - 📫 How to reach me: **debjyotishit27@gmail.com**.
 - ⚡ Fun fact: I believe CI/CD pipelines should flow smoother than coffee in the morning ☕.
 
