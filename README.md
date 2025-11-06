@@ -41,7 +41,7 @@ I'm a passionate engineer who loves architecting robust systems and bringing ide
 <td width="40%" valign="top">
   
 <a href="https://www.debjyoti.co.in/">
-  <img src="https://i.imgur.com/MGo54j9.gif" alt="Coding GIF" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%"/>
 </a>
 
 </td>
