@@ -5,7 +5,7 @@
 
   
 </a>
-<p align="center"><strong>Building Scalable Infrastructure & End-to-End Web Solutions with Precision and Reliability</strong></p>
+<p align="center"><strong>Architecting Reliable Infrastructure & Delivering Scalable Applications.</strong></p>
 <p align="center">
   <a href="https://www.debjyoti.co.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=realm&logoColor=white" alt="Portfolio"/>
