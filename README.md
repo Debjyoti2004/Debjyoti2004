@@ -29,13 +29,14 @@
 
 ### About Me
 
-I'm a passionate engineer who loves architecting robust systems and bringing ideas to life through code. My focus is on creating solutions that are not just functional, but also scalable, reliable, and efficient.
+I'm a passionate engineer focused on architecting robust, scalable, and efficient systems. I love bringing ideas to life, from back-end infrastructure to end-to-end web solutions.
 
-- 🌱 Currently deepening my skills in **CI/CD, Terraform, & Kubernetes**.
-- 🧠 Exploring the exciting worlds of **Web3, MLOps, and Data Science**.
-- 📄 Know about my experiences from my [**Resume**](https://drive.google.com/file/d/1zLJwFKALqJwjQC1zQOkrDrW7sLUOLnjX/view?usp=sharing).
-- 📫 How to reach me: **debjyotishit27@gmail.com**.
-- ⚡ Fun fact: I believe CI/CD pipelines should flow smoother than coffee in the morning ☕.
+- 🚀 **My Core Focus:** DevOps & Cloud Engineering. I'm actively deepening my skills in **CI/CD, Terraform, and Kubernetes**.
+- 💻 **My Skillset:** I also build and maintain applications as a **Full Stack Developer**.
+- 🧠 **Exploring Next:** The exciting worlds of **Web3, MLOps, and Data Science**.
+- 📄 Check out my full professional story on my [**Resume**](https://drive.google.com/file/d/1zLJwFKALqJwjQC1zQOkrDrW7sLUOLnjX/view?usp=sharing).
+- 📫 **Get in touch:** **debjyotishit27@gmail.com**.
+- ⚡ **Fun fact:** I believe CI/CD pipelines should flow smoother than coffee in the morning ☕.
 
 </td>
 <td width="40%" valign="top">
