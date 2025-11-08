@@ -42,7 +42,7 @@ Hi there! I'm a **DevOps & Cloud Engineer** passionate about building the robust
 <td width="40%" valign="top">
   
 <a href="https://www.debjyoti.co.in/">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%"/>
+  <img src="https://camo.githubusercontent.com/471843b1bd3737b9efa5359655b69154c1a7f0b9b57d2c962618654e42271ec8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f777767616d7038624f7378386279764b54692f67697068792e676966" alt="Coding GIF" width="100%"/>
 </a>
 
 </td>
