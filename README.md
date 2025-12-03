@@ -65,17 +65,30 @@ Hi there! I'm a **DevOps & Cloud Engineer** passionate about building the robust
 <h3 align="center">Debjyoti Shit's GitHub Stats</h3>
 
 <a href="https://github.com/debjyoti2004">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjyoti2004&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&card_width=490" alt="Debjyoti's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=debjyoti2004&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&card_width=490"
+    alt="Debjyoti's GitHub Stats"
+  />
 </a>
+
 <a href="https://github.com/debjyoti2004">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjyoti2004&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Debjyoti's GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=debjyoti2004&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="Debjyoti's GitHub Streak"
+  />
 </a>
-<br>
+
+<br />
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=debjyoti2004&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&row=1" alt="Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=debjyoti2004&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1&row=1"
+    alt="Trophies"
+  />
 </a>
 
 </div>
+
 
 ---
 
