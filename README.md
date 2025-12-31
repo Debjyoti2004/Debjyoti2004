@@ -34,7 +34,7 @@ Hi there! I'm a **DevOps & Cloud Engineer** passionate about building the robust
 - 🚀 **My Core Focus:** I'm actively deepening my skills in **CI/CD, Terraform, and Kubernetes** to build and automate reliable infrastructure.
 - 💻 **My Other Skillset:** As a **Full Stack Developer**, I also build and maintain the end-to-end applications that run on that infrastructure.
 - 🧠 **Exploring Next:** The exciting worlds of **Web3, MLOps, and Data Science**.
-- 📄 See my full professional story on my [**Resume**](https://drive.google.com/file/d/1NHs9ZZFupcSvcirDuuoJjigpVlV9q9pL/view?usp=sharing).
+- 📄 See my full professional story on my [**Resume**](https://drive.google.com/file/d/16Cft83ku9rgSGDs289tYGJbXCDj4Xggv/view?usp=sharing).
 - 📫 **Get in touch:** **debjyotishit27@gmail.com**.
 - ⚡ **Fun fact:** I believe CI/CD pipelines should flow smoother than coffee in the morning ☕.
 
